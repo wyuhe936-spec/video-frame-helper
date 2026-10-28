@@ -1,5 +1,7 @@
 # 视频抽帧助手
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > 面向课程录像、访谈、监控和长视频素材的 Windows 批量抽帧与拼图工具。
 
 视频抽帧助手可以把一个或多个视频按指定时间区间均匀抽帧，自动生成带时间点和视频信息的拼图，也可以同时保留单帧图片。它只有一个 exe，内置视频处理组件，复制到其他 Windows 电脑即可使用。
@@ -151,6 +153,7 @@ video-frame-helper/
 │  ├─ app.ico
 │  └─ app.manifest
 ├─ CHANGELOG.md
+├─ LICENSE
 ├─ THIRD_PARTY_NOTICES.md
 └─ README.md
 ```
@@ -179,4 +182,6 @@ video-frame-helper/
 
 ## 版权与许可
 
-本仓库的应用代码目前未附带开源许可证，默认保留所有权利；你可以查看、下载和运行发布的可执行文件，如需复用源码请联系作者。内置 FFmpeg 遵循其自身的 GPLv3 许可，详见第三方组件说明。如果希望以 MIT 或 GPLv3 等方式开源，可以在仓库中补充 `LICENSE`。
+应用代码采用 **MIT License**，Copyright (c) 2026 wyuhe936-spec，完整条款见 [LICENSE](LICENSE)。
+
+内置 FFmpeg 是独立第三方组件，遵循其自身的 GPLv3 许可；MIT 许可不改变 FFmpeg 的许可义务，源码获取方式见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
