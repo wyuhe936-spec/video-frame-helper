@@ -26,7 +26,7 @@
 
 直接下载仓库中的可执行文件：
 
-[下载 VideoFrameHelper-1.2.2.exe](dist/VideoFrameHelper-1.2.2.exe)
+[直接下载 VideoFrameHelper-1.2.2.exe](https://github.com/wyuhe936-spec/video-frame-helper/raw/main/dist/VideoFrameHelper-1.2.2.exe)
 
 文件大小约 24.7 MB。SHA-256：
 
