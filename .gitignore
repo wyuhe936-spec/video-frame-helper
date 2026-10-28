@@ -1,0 +1,23 @@
+# Build outputs
+bin/
+obj/
+build/
+*.user
+*.suo
+*.userprefs
+.vs/
+
+# Local test / reverse-engineering artifacts (not part of the project)
+probe/
+testdata/
+src-baseline/
+build-baseline/
+tools/
+
+# Logs and temporary files
+*.log
+*.partial
+auth.log
+Thumbs.db
+desktop.ini
+.DS_Store
